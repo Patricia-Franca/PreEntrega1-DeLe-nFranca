@@ -1,3 +1,7 @@
-.Logo {
-    color: blueviolet;
+body {
+    background-color: rgb(250, 207, 235);
+}
+
+.navbar-expand-lg {
+    color: rgb(243, 147, 166);
 }
